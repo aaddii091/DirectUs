@@ -26,9 +26,19 @@ A step by step guide that tell you how to get Postman Installed .
 
 Login to Directus and open the User Management module. If you haven't created an API user, create a new user now. At the bottom of the API user, there is a field labelled Token. By default this is always blank. If empty, type a token now and save the user. There are some great token generators on Google. Copy the token from the field.
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/907964824372252674/1100349158990295112/image.png" alt="Project logo"></a>
+</p>
+
 ### Step 2: Permissions
 
 Permissions are a very important part of APIs. It keeps you data safe from accidental or deliberate changes that cause havoc on your system. It's very tempting to use the Administrator privilages, but it's definately worth having a dedicated API Role.
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/907964824372252674/1100349556429963295/image.png" alt="Project logo"></a>
+</p>
 Create a new role in Directus and assign it to the API user. On the role, you'll see a list of all the collections in Directus and the permissions for Create, View, Edit, Delete and Share. Simply grant access to the required actions for each collection. Bare in mind, relational tables need to be visible to return the data and editable to write relational data.
 
 ### Step 3: Create a Postman Collection
