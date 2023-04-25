@@ -68,6 +68,8 @@ Enter the API URL and click on get Request.
 
 ### Step 5: Results
 
+In the console you'll be able to view the JSON data (Postman also supports the HTML).
+
 <p align="center">
   <a href="" rel="noopener">
  <img  src="https://cdn.discordapp.com/attachments/907964824372252674/1100350281855799327/image.png" alt="Project logo"></a>
