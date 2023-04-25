@@ -36,7 +36,12 @@ Create a new role in Directus and assign it to the API user. On the role, you'll
 In Postman it's important to create a collection for each service. In this cas you can call it Directus, or something relative to the project. To create a new collection, click the + (plus) symbol next to the Collection menu button then name your collection.
 
 Next, change the Authorization type to Bearer Token.
-pic
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://learndirectus.com/content/images/size/w1000/2022/03/image.png" alt="Project logo"></a>
+</p>
+
 A Token field will appear. Paste the token from the Directus API and click Save. If the save button is not showing you need to close the right-side panel. pic
 You can add as many collections as you need and you can add multiple Directus projects with ease.
 
