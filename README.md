@@ -50,3 +50,8 @@ You can add as many collections as you need and you can add multiple Directus pr
 Now that you have a collection, you can create some requests. Right click on the collection in you left navigation or click the ellipsis menu icon when you hover the mouse on the collection. Choose Add Request.
 
 Give the Request a meaningful name then add the URL for the Directus API. If you're using REST API, the URL will look like this where directus.example.com is your domain name for Directus and articles is your collection in Directus.
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://learndirectus.com/content/images/size/w1000/2022/03/image-4.png" alt="Project logo"></a>
+</p>
