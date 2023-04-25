@@ -39,7 +39,7 @@ Next, change the Authorization type to Bearer Token.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://learndirectus.com/content/images/size/w1000/2022/03/image.png" alt="Project logo"></a>
+ <img  src="https://learndirectus.com/content/images/size/w1000/2022/03/image.png" alt="Project logo"></a>
 </p>
 
 A Token field will appear. Paste the token from the Directus API and click Save. If the save button is not showing you need to close the right-side panel. pic
