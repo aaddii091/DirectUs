@@ -74,3 +74,50 @@ In the console you'll be able to view the JSON data (Postman also supports the H
   <a href="" rel="noopener">
  <img  src="https://cdn.discordapp.com/attachments/907964824372252674/1100350281855799327/image.png" alt="Project logo"></a>
 </p>
+
+## Getting single document from the collection
+
+### Step 1: Specify the Params
+
+You can add the id parameter at the end of the API url to fetch the document connected to the above mentioned id but you can use other parameters also .
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/715509680667099202/1100370300526407680/image.png" alt="Project logo"></a>
+</p>
+
+### Step 2: Results
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/715509680667099202/1100370623034818590/image.png" alt="Project logo"></a>
+</p>
+
+## Adding comments
+
+### Step 1: Select the collection
+
+Look at the top left corner of the Directus Admin Portal and select the targeted collection
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/715509680667099202/1100718627029778432/image.png" alt="Project logo"></a>
+</p>
+ 
+ ### Step 2: Select the Document
+
+Select the Document needed from the collection
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/715509680667099202/1100719094812135424/image.png" alt="Project logo"></a>
+</p>
+
+### Step 3: Comment
+
+Expand the comments tab on the left hand side of the screen & write down the comments in the text area
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img  src="https://cdn.discordapp.com/attachments/715509680667099202/1100719913196339270/image.png" alt="Project logo"></a>
+</p>
